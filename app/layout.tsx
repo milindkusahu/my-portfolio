@@ -23,7 +23,7 @@ export const metadata: Metadata = {
     "UI/UX Development",
     "Responsive Web Design",
     "Portfolio",
-    "Jharkhand Developer",
+    "Chhattisgarh Developer",
   ],
   authors: [{ name: "Milind Kumar Sahu" }],
   creator: "Milind Kumar Sahu",
@@ -42,7 +42,7 @@ export const metadata: Metadata = {
   openGraph: {
     type: "website",
     locale: "en_IN",
-    url: "http://localhost:3000/",
+    url: "https://milindsahu.com",
     siteName: "Milind Kumar Sahu Portfolio",
     title: "Milind Kumar Sahu | Front-End React Developer",
     description:
@@ -68,7 +68,7 @@ export const metadata: Metadata = {
     google: "B6yjb-zjQX91f7RRC4vCfHTCo-pq-QDrxvSOykVMs_I",
   },
   alternates: {
-    canonical: "http://localhost:3000/",
+    canonical: "https://milindsahu.com",
   },
 };
 
